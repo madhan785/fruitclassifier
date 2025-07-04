@@ -56,7 +56,7 @@ fruit-image-classification/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Nirikshan95/FruitClassifier.git
+   git clone https://github.com/madhan785/FruitClassifier.git
    cd FruitClassifier
    ```
 
